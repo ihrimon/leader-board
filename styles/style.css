@@ -89,8 +89,7 @@ hr{
     Width: 252.42px;
     Height: 269.79px;
     border-radius: 10px;
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05);
-    border: 2px dotted gray;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.103);
 }
 .course .course-banner img{
     width: 224px;
